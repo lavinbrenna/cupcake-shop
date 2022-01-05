@@ -1,0 +1,14 @@
+.flashy{
+  color: red;
+  font-style: italic;
+}
+
+.best{
+  color: pink;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+}
+
+img{
+  width: 50%;
+}
